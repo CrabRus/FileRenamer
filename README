@@ -140,10 +140,7 @@ main
 
 🛠 Як запустити
 1. Клонувати репозиторій:
-git clone https://github.com/yourname/file-renamer.git
-
-2. Перейти в директорію:
-cd file-renamer
+https://github.com/CrabRus/FileRenamer.git
 
 3. Запустити програму:
-go run .
+go run main.go
